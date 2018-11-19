@@ -1,0 +1,38 @@
+{
+	"title" : "Building Brainiacs Website",
+	"subtitle" : "Building Brainiacs, 2016",
+	"coverPhoto" : "building-brainiacs-cover-photo.png",
+	"coverPhotoLow" : "building-brainiacs-cover-photo-low.jpg",
+	"contributions" : [
+		"Branding",
+		"UX Design",
+		"Visual Design",
+		"Development"
+	],
+	"id" : "building-brainiacs-website",
+	"content" : [
+		{
+			"heading" : "Personalized Learning",
+			"text": "<p>Building Brainiacs is a New York based tutoring company. They specialize in elementary literacy and math tutoring and operate with over 25 at-home specialists.</p><p><strong><a href='http://buildingbrainiacs.com/'>Building Brainiacs</a></strong></p>",
+			"style" : "cover"
+		},
+		{
+			"heading" : "",
+			"text" : "",
+			"image" : "building-brainiacs-screen-layout.png",
+			"style" : "image-panel-fixed"
+		},
+		{
+			"heading" : "Designing For a Small Business",
+			"text" : "<p>Building Brainiacs was looking for a professional brand identity to complement their sophisticated tutoring methods. I built a logo that combines their primary focus of reading and writing education with a brain. Their homepage utilizes long-form marketing tactics to engage the user, showcase the value of the company, and then follow up with a call-to-action.</p>",
+			"image" : "building-brainiacs-computer-screen.png",
+			"style" :  "image-left-fixed"
+		},
+		{
+			"heading" : "Streamlined Development",
+			"text" : "<p>The website was developed to be fast and responsive. Techniques were used to maximize page load times so that customers won't be lost due to a slow response time.</p>",
+			"image" : "building-brainiacs-single-screen.jpg",
+			"style" : "image-right-dark"
+		}
+	]
+}

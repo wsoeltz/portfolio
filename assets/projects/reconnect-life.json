@@ -1,0 +1,52 @@
+{
+	"title" : "Reconnect.life",
+	"subtitle" : "www.Reconnect.life, 2018",
+	"coverPhoto" : "reconnect-cover-photo.jpg",
+	"coverPhotoLow" : "reconnect-cover-photo-low.jpg",
+	"contributions" : [
+		"Branding",
+		"UX Design",
+		"Visual Design",
+		"Development",
+		"Content",
+		"Marketing"
+	],
+	"id" : "reconnect-life",
+	"content" : [
+		{
+			"heading" : "The Highest Screen Resolution? Your Eyes.",
+			"text": "<p>Reconnect started in college as an award-winning campaign to encourage people to spend less time on their electronics and more time exploring the world for themselves. Between raising money for charity, documenting 6-month long adventures, and providing resources for those looking to get outside more, it has since grown to so much more.</p><p><strong><a href='http://reconnect.life/'>Reconnect.life</a></strong></p>",
+			"style" : "cover"
+		},
+		{
+			"heading" : "",
+			"text" : "",
+			"image" : "reconnect-screen-layout.png",
+			"style" : "image-panel-fixed"
+		},
+		{
+			"heading" : "Experience the World On Your Feet, Not On Your Phone",
+			"text" : "<p>The starting point for this campaign was the realization of just how much time we spend plugged in everyday. For reference, that number is 24 years, nearly a third of your life. Through this campaign I hoped to empower people to explore the world with their own senses instead of their screens. To convey this message, I designed a logo that combines a standard electronic 'power-on' symbol with a footprint to signify power to your feet, not your phone.</p>",
+			"image" : "reconnect-computer-screen.png",
+			"style" :  "image-left-fixed"
+		},
+		{
+			"heading" : "Explore Beyond Your Windows",
+			"text" : "<p>Reconnect started as a single page infographic encouraging people to get outside. It has since evolved into a full web hub for hiking and the outdoors. The goal is to provide inspiration and information to those seeking to create their own adventures.</p>",
+			"image" : "reconnect-single-screen.jpg",
+			"style" : "image-right-dark"
+		},
+		{
+			"heading" : "Walking Distance",
+			"text" : "<p>In the summer of 2018 I hiked 2652 miles from Mexico to Canada along the Pacific Crest Trail. While living out of a backpack, I created content, managed social media and email marketing campaigns, and raised nearly $3000 for mental health research and trail conservation efforts.</p>",
+			"image" : "reconnect-screenshot-partial.jpg",
+			"style" : "image-left-full"
+		},
+		{
+			"heading" : "The Sky is the Limit",
+			"text" : "<p>Reconnect.life continues to grow with new content and new features. Plans for inspiring outdoor-merchandise and apps to track your adventures are in the works.</p>",
+			"image" : "reconnect-screenshot-full.jpg",
+			"style" : "image-background-cover"
+		}
+	]
+}

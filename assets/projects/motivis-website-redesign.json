@@ -1,0 +1,41 @@
+{
+	"title" : "Motivis Website Redesign",
+	"subtitle" : "Motivis Learning, 2017",
+	"coverPhoto" : "motivis-cover-photo.jpg",
+	"coverPhotoLow" : "motivis-cover-photo-low.jpg",
+	"contributions" : [
+		"Development"
+	],
+	"id" : "motivis-website-redesign",
+	"content" : [
+		{
+			"heading" : "A Learning Platform For the Future",
+			"text": "<p>Motivis Learning looks to help change the nation's education system. Our current learning structure is outdated — we look more at the time spent in classes than at actual student progress. Competency Based Education, which is on the rise throughout the country, looks to change that, and Motivis plans to be at the forefront of that change.</p><p><strong><a href='http://motivislearning.com/'>MotivisLearning.com</a></strong></p>",
+			"style" : "cover"
+		},
+		{
+			"heading" : "",
+			"text" : "",
+			"image" : "motivis-screen-layout.png",
+			"style" : "image-panel-fixed"
+		},
+		{
+			"heading" : "The Pieces Make the Whole",
+			"text" : "<p>I worked with the design team on a modular system that would allow our marketing to customize the posts and pages of the site.</p>",
+			"image" : "motivis-computer-screen.png",
+			"style" :  "image-left-fixed"
+		},
+		{
+			"heading" : "Atomic Design",
+			"text" : "<p>Once the design was in place I built a reusable, atomic system of components. Each one had a series of classes and inputs that could allow a wide berth of customization. It was also safety-proofed so no matter what kind of configuration or content was injected, the site would maintain its branding and high quality of design.</p>",
+			"image" : "motivis-single-screen.jpg",
+			"style" : "image-right-dark"
+		},
+		{
+			"heading" : "Integration and Hand-Off",
+			"text" : "<p>I worked with an outside team to integrate my components into a custom WordPress template. Every level of the customization could then be done by the marketing team without them ever having to see a line of code.</p>",
+			"image" : "motivis-screenshot-partial.jpg",
+			"style" : "image-left-full"
+		}
+	]
+}

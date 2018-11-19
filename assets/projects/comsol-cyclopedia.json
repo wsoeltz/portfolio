@@ -1,0 +1,37 @@
+{
+	"title" : "COMSOL Cyclopedia",
+	"subtitle" : "COMSOL Multiphysics, 2014",
+	"coverPhoto" : "comsol-cyclopedia-cover-photo.jpg",
+	"coverPhotoLow" : "comsol-cyclopedia-cover-photo-low.jpg",
+	"contributions" : [
+		"UX Design",
+		"Visual Design",
+		"Development"
+	],
+	"id" : "comsol-cyclopedia",
+	"content" : [
+		{
+			"heading" : "Multiphysics, Multi-content",
+			"text": "<p>COMSOL is one of the top softwares for engineers to simulate their designs in a multiphysics environment. Being a field that is only accessible with a PhD in physics at a minimum, it is full of complex terminology and concepts not easily referenced from a typical Google search. The COMSOL Cyclopedia aims to be the premiere online hub of information for all things multiphysics related.</p><p><strong><a href='https://www.comsol.com/multiphysics'>COMSOL Cyclopedia</a></strong></p>",
+			"style" : "cover"
+		},
+		{
+			"heading" : "",
+			"text" : "",
+			"image" : "comsol-cyclopedia-screen-layout.png",
+			"style" : "image-panel-fixed"
+		},
+		{
+			"heading" : "A Light Read",
+			"text" : "<p>When working with complex information it is all the more crucial to make sure it is readable. If the subject matter already requires all of your brain's processing power there isn't any focus left to deal with an obstructing design. Careful consideration went into the typography of the Cyclopedia to ensure maximal ease when reading and skimming through the content.</p><p>I also sought to bring some better visual engagement into what is normally dry copy paired with graphs and equations. Each section sports a cover photo that has been artistically crafted based on the content within.</p> ",
+			"image" : "comsol-cyclopedia-computer-screen.png",
+			"style" :  "image-left-fixed"
+		},
+		{
+			"heading" : "Navigational Development",
+			"text" : "<p>The Cyclopedia was developed to have a dynamic menu with the least amount of distractions. While the user is reading the content, the menu subtlety fades to a light gray, blending it with the page background so as not to pull the reader's eyes away. But once they want to navigate to another page, the menu fades back into focus to allow for easy-to-read navigational links.</p>",
+			"image" : "comsol-cyclopedia-single-screen.jpg",
+			"style" : "image-right-dark"
+		}
+	]
+}

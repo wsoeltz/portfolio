@@ -1,0 +1,56 @@
+.primary-col {
+	flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: 25%;
+}
+
+.secondary-col {
+	flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: 45%;
+}
+
+.motivis-design-system-tile {
+	flex-basis: 20%;
+	background: #11a1d1 url('../img/motivis-design-system-cover.jpg');
+	background-position: center;
+}
+
+.motivis-website-redesign-tile {
+	background: #b3432d url('../img/motivis-website-cover.jpg');
+}
+
+.reconnect-life-tile {
+	background: #968835 url('../img/reconnect-life-cover.jpg');
+}
+
+.comsol-cyclopedia-tile {
+	background: #599dcf url('../img/comsol-cyclopedia-cover.jpg');
+}
+
+.comsol-product-showcase-tile {
+	background: #7caa34 url('../img/comsol-showcase-cover.jpg');
+}
+
+.building-brainiacs-website-tile {
+	flex-basis: 18%;
+	background: #283e46 url('../img/building-brainiacs-cover.jpg');
+}
+
+.bass-bodies-website-tile {
+	background: #b80c72 url('../img/bass-bodies-cover.jpg');
+	background-position: right;
+}
+
+
+@media (min-width: 901px) {
+	.secondary-col .flex-row {
+		height: 300px;
+	}
+	.reconnect-life-tile {
+		height: 700px;
+	}
+	.comsol-cyclopedia-tile {
+		height: 500px;
+	}
+}

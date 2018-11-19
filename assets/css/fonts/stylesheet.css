@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'AWConquerorStdSans-Light';
+    src: url('AWConquerorStdSans-Light.eot');
+    src: url('AWConquerorStdSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('AWConquerorStdSans-Light.woff2') format('woff2'),
+        url('AWConquerorStdSans-Light.woff') format('woff'),
+        url('AWConquerorStdSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

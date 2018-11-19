@@ -1,0 +1,119 @@
+.resume {
+	.flex-wrapper {
+		justify-content: center;
+	}
+	.resume-segment {
+		padding: 20px 20px 0 20px;
+		margin-bottom: 40px;
+	}
+	button {
+		margin-bottom: 40px;
+	}
+	div.resume-header {
+		background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 198 198' xmlns='http://www.w3.org/2000/svg' width='88' height='88'%3E%3Cg fill='%2300413c'%3E%3Cpath d='M124.6 22.6h-2.8l-19.4 39-3.4 6.7c-1.3 2.5-1 5.5.7 7.8l16.4 22c2.5 3.4 3.8 7.4 3.7 11.4l4.7-4.2-17.7-23.7c-4.3-5.8-5-13.3-1.8-19.8l19.6-39.2z'/%3E%3Cpath d='M99 0C44.3 0 0 44.3 0 99s44.3 99 99 99 99-44.3 99-99S153.7 0 99 0zM81.7 16.9h8v80.7l-8 13.7V16.9zm-6 0h3.5v98.7l-3.5 6V16.9zm38.6 60.7l15.1 20.2 2.6 3.5c3.6 4.8 3.5 11.4-.2 16.1l-2.7 3.4-53.3 66.9v-22.4l38.3-48.1c3.7-4.7 3.8-11.3.3-16.1l-11.9-15.9-4.5-6c-3-4-3.4-9.3-1.2-13.8l3.4-6.7 21-42.2h15.6L113 63.8c-2.2 4.5-1.7 9.8 1.3 13.8z'/%3E%3C/g%3E%3C/svg%3E");
+		background-repeat: no-repeat;
+		background-size: 88px;
+		padding: 10px 0 0 110px;
+		min-height: 88px;
+		margin: 0 auto;
+	    height: 133px;
+		width: 450px;
+		max-width: 100%;
+		text-align: left;
+		border: none;
+		h1 {
+			@include aw-conqueror-sans;
+			text-transform: uppercase;
+			font-size: 41px;
+			position: relative;
+			top: 3px;
+		}
+	}
+	h2 {
+		font-weight: 600;
+		font-size: 24px;
+		color: #3b3738;
+		text-transform: uppercase;
+		margin-bottom: 4px;
+	}
+	h3 {
+		font-weight: 600;
+		font-size: 20px;
+		color: $color-blue;
+		margin-bottom: 4px;
+	}
+	h4 {
+		font-weight: 600;
+		font-size: 15px;
+		color: #626667;
+		margin-bottom: 4px;
+	}
+	ul {
+		list-style: disc;
+		padding-left: 40px;
+		font-size: 14px;
+		margin-bottom: 10px;
+	}
+	li {
+		line-height: 1.5em;
+		strong {
+			font-weight: 600;
+		}
+	}
+	.charcoal {
+		.resume-header {
+			text-align: right;
+		    height: 133px;
+		    margin-bottom: 0;
+		}
+		h3 {
+			color: #e0ad84;
+		}
+		p, span, strong {
+			color: $color-offWhite;
+			font-size: 14px;
+		}
+		strong {
+			font-weight: 600;
+		}
+	}
+	img {
+		max-width: 250px;
+		margin: 0 auto;
+		display: block;
+	}
+}
+
+.charcoal {
+	background-color: $color-charcoal;
+}
+
+@media (min-width: 901px) {
+	.resume {
+		.resume-segment {
+			padding: 20px 50px 0 50px;
+			max-width: 590px;
+		}
+		.charcoal {
+			max-width: 431px;
+		}
+
+		img {
+		}
+
+	}
+}
+
+
+@media (max-width: 480px) {
+	.resume {
+		div.resume-header {
+			background-position: center top;
+			padding: 110px 0 0 0;
+			width: 100%;
+			text-align: center;
+			height: auto;
+			margin-bottom: 40px;
+		}
+	}
+}

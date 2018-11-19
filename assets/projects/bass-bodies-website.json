@@ -1,0 +1,31 @@
+{
+	"title" : "Bass Bodies Website",
+	"subtitle" : "Bass Bodies, 2016",
+	"coverPhoto" : "bass-bodies-cover-photo.png",
+	"coverPhotoLow" : "bass-bodies-cover-photo-low.jpg",
+	"contributions" : [
+		"UX Design",
+		"Visual Design",
+		"Development"
+	],
+	"id" : "bass-bodies-website",
+	"content" : [
+		{
+			"heading" : "Burn to the Beat",
+			"text": "<p>Bass Bodies was an exercise startup aimed at blending electronic dance music with fitness. The program features a party-themed atmosphere designed to leverage the efficiency of one's workout by combining it with rave style dancing.</p>",
+			"style" : "cover"
+		},
+		{
+			"heading" : "",
+			"text" : "",
+			"image" : "bass-bodies-screen-layout.png",
+			"style" : "image-panel-fixed"
+		},
+		{
+			"heading" : "High Energy Design",
+			"text" : "<p>I was commissioned to design and develop their website. The goal was to create a design that reflected the high-energy atmosphere of the company and represent them professionally on the web. Strong colors and imagery work together to create a vibe that matches their brand.</p>",
+			"image" : "bass-bodies-screenshot-full.jpg",
+			"style" : "image-background-cover"
+		}
+	]
+}

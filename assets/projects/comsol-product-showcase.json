@@ -1,0 +1,37 @@
+{
+	"title" : "COMSOL Product Showcase",
+	"subtitle" : "COMSOL Multiphysics, 2015",
+	"coverPhoto" : "comsol-product-showcase-cover-photo.png",
+	"coverPhotoLow" : "comsol-product-showcase-cover-photo-low.jpg",
+	"contributions" : [
+		"UX Design",
+		"Visual Design",
+		"Development"
+	],
+	"id" : "comsol-product-showcase",
+	"content" : [
+		{
+			"heading" : "Multiphysics Simulation Software",
+			"text": "<p>COMSOL is one of the top softwares for engineers to simulate their designs in a multiphysics environment. They build a variety of products ranging from fluid dynamics to chemical engineering. I designed and developed dedicated showcases for these products, marketing key parts of the software to potential buyers.</p><p><strong><a href='https://www.comsol.com/showcase/chemical'>COMSOL Chemical Showcase</a></strong></p><p><strong><a href='https://www.comsol.com/showcase/application-builder'>COMSOL Application Builder Showcase</a></strong></p>",
+			"style" : "cover"
+		},
+		{
+			"heading" : "",
+			"text" : "",
+			"image" : "comsol-product-showcase-screen-layout.png",
+			"style" : "image-panel-fixed"
+		},
+		{
+			"heading" : "Real World Physics",
+			"text" : "<p>The COMSOL software is not the most exciting too look at - it's all numbers and input boxes with the occasional graph or cool-looking render. But for these showcases I had to design something engaging. I used plenty of images straight from the software, but I paired them with real world imagery and videos of physics in action.</p>",
+			"image" : "comsol-product-showcase-computer-screen.png",
+			"style" :  "image-left-fixed"
+		},
+		{
+			"heading" : "International Design",
+			"text" : "<p>One of the challenges of the showcases was that it was for a global market. That meant all of the design and development had to be done with the understanding that it had to work with nearly 20 different translations across any possible screen size.</p>",
+			"image" : "comsol-product-showcase-single-screen.jpg",
+			"style" : "image-right-dark"
+		}
+	]
+}

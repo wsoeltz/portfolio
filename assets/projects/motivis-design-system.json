@@ -1,0 +1,49 @@
+{
+	"title" : "Motivis Design System",
+	"subtitle" : "Motivis Learning, 2017 - 2018",
+	"coverPhoto" : "motivis-cover-photo.png",
+	"coverPhotoLow" : "motivis-cover-photo-low.jpg",
+	"contributions" : [
+		"UX Design",
+		"Visual Design",
+		"Development"
+	],
+	"id" : "motivis-design-system",
+	"content" : [
+		{
+			"heading" : "Designing for a Better Education System",
+			"text": "<p>Motivis Learning is an education management platform. It provides tools for competency based education (CBE) - a new model of teaching that is sweeping the nation's colleges. CBE is centered around personalized learning and it focuses more on a student's progress than the amount of time they've spent sitting in classes.</p>",
+			"style" : "cover"
+		},
+		{
+			"heading" : "",
+			"text" : "",
+			"image" : "motivis-screen-layout.png",
+			"style" : "image-panel-fixed"
+		},
+		{
+			"heading" : "Complex tools, simple solutions",
+			"text" : "<p>A system that allows instructors to customize course material down to an individual level is going to require some strong UX work to keep the platform clear and focused. I collaborated with the other designers to come up with a modular design system that could be used universally throughout the product.</p>",
+			"image" : "motivis-computer-screen.png",
+			"style" :  "image-left-fixed"
+		},
+		{
+			"heading" : "One size fits all, one size fits one",
+			"text" : "<p>Whether it was for a simple notification list or a complex assignment grader with a built-in document viewer that could evaluate students on the spot, the Motivis Design System could do it all. Each component was built to be simple and reusable, yet with the right application could be used to create extremely powerful features.</p>",
+			"image" : "motivis-single-screen.jpg",
+			"style" : "image-right-dark"
+		},
+		{
+			"heading" : "Accessible and Semantic",
+			"text" : "<p>Accessibility was very important to nail down. Being a platform for learning, we aimed to build an inclusive product that would allow all to use it. The design system includes simple things like screen-reader only classes, to more complex features, like locking in the users tabbing to a loop when accessing content detached from the rest of the page.</p>",
+			"image" : "motivis-screenshot-partial.jpg",
+			"style" : "image-left-full"
+		},
+		{
+			"heading" : "Rapid Prototyping With Production Ready Code",
+			"text" : "<p>The Motivis Design System lets wireframes become production ready markup in just a matter of minutes to hours. The entire system is fully documented on its own site where current and future Motivis developers can access code snippets and examples as well as contribute to its future as it grows to fill new needs of the company.</p>",
+			"image" : "motivis-screenshot-full.jpg",
+			"style" : "image-background-cover"
+		}
+	]
+}

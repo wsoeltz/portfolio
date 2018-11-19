@@ -1,0 +1,12 @@
+$color-blue: #00413c;
+$color-darkBlue: #001816;
+$color-charcoal: #3a3638;
+$color-olive: #495238;
+$color-tan: #e3d1aa;
+$color-offWhite: #f1ead9;
+
+@mixin aw-conqueror-sans {
+	font-family: AWConquerorStdSans-Light, 'Delicous', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
